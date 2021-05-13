@@ -1,0 +1,14 @@
+{
+  "name": "cpartialtransationproofdeserialize",
+  "version": "1.0.0",
+  "description": "",
+  "main": "CPartialTransactionProofDeserialize.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "varint": "^6.0.0"
+  }
+}
